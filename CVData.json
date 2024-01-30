@@ -1,0 +1,76 @@
+{
+    "PersonalInformation":{
+        "Nombre": "Pablo Javier Becerra Vargas",
+        "Nacionalidad": "Boliviana",
+        "Lugar de Nacimineto": "Ciudad de La Paz",
+        "Fecha de Nacimineto": "25/02/1997",
+        "C.I.":"10932239 L.P.",
+        "Domicilio":"Ciudad de La Paz"
+    },
+    "Contactos":{
+        "Celular":"+591 60135445",
+        "Cuenta GitHub":"PabloPayDev",
+        "Correo Profecional":"PabloJBecerraVDev@gmail.com",
+        "Correo Personal": {
+            "Email1":"Pablopay74@gmail.com",
+            "Email2":"Pay-74@hotmail.com"
+        }
+    },
+    "ProfecionalInformation":{
+        "Degrees":"Estudiante de Informatica y Ciencia de Datos",
+        "Note1":"Este C.V. fue generado usando mi conocimiento en Html y Css.",
+        "Note2":"Proximo a defensa de Tesis."
+    },
+    "CVContent":{
+        "Resumen de Capacidades":"Universitario estudiante de la carrera de informática en la Universidad Mayor de San Andrés, especializándose en el área de Data Science y Machine Learnning tanto en la U.M.S.A. como en universidades e institutosexternos. Conocimientos en manejo y administración de Business Process Management Suite (BPMS) y digitalización de operaciones. Experiencia laboral en desarrollo de aplicaciones moviles, aplicaciones web, dashboards y análisis de datos.",
+        "Formacion Profecional":{                
+            "row1":"2014 Técnico Medio en Construcción Civil : Colegio Don Bosco",
+            "row2":"2015 Ingreso Carrera de Informática : U.M.S.A.",
+            "row3":"2018 Supervised Machine Learning: Regression and Classification : Coursera Stanford",
+            "row4":"2018 Statistical Machine Learning : La Paz School of AI",
+            "row5":"2019 Visual Studio y C# : Instituto I.C.E.I.",
+            "row6":"2019 Deep Learning y Redes Neuronales : Instituto I.C.E.I."
+        },
+        "Areas de Conocimiento":{
+            "Desarrollo de Frontend":{
+                "row1":"HTML5",
+                "row2":"CSS3 -Bootstrap y Tailwind",
+                "row3":"Frameworks -React -VueJs3"
+            },
+            "Desarrollo de Backend":{
+                "row1":"JavaScript -Express -Next.js",
+                "row2":"Python -Django -Flask",
+                "row3":"Bases de Datos -SQL -SQLite -MongoDB"
+            },
+            "Desarrollo Movil":{
+                "row1":"Kotlin"
+            },
+            "Analitica de Datos y Desarrollo de Modelos de Machine Learning":{
+                "row1":"Python-Plataformas de Desarrollo -Anaconda -GoogleColab -VsCode",
+                "row2":"Python-Librerias -Numpy -Pandas -Socrata -SKLearn -PyTorch",
+                "row3":"Python-Visualizacion de Datos -Matplotlib -SeaBorn -OpenCV -Mayavi -VPython"
+            },
+            "Desarrollo de Dashboards y Administracion de BPMS":{
+                "row1":"Flokzu e Integradoc -BPMS -Dashboards",
+                "row2":"PowerBI -Dashboards"           
+            }
+        },
+        "Experiencia Laboral":{
+            "row1":"2019 Desarrollo de Aplicacion Móvil LSBNiños.",
+            "row2":"2020-2021 Pasantía en Detics como consultor de BPM.",
+            "row3":"2021 Rediseño UI/UX de la página web de ATB Digital.",
+            "row4":"2022 Dictado de curso BPMN2.0 y BPMS's.",
+            "row5":"2022 Desarrollo de Sistema de Inventario Farmacia Stone."
+        },
+        "Meritos Extra Ralizados":{
+            "row1":"2018 Auxiliatura Olimpiada Estudiantil : Olimpiada Estudiantil.",
+            "row2":"2019 Tecnologías 5G : I.E.E.E.",
+            "row3":"2019 Ciencia y Tecnología Satelital : I.E.A.",
+            "row4":"2019 Participación en I.A.S.C. : N.A.S.A.",
+            "row5":"2020 Tutoría en I.A.S.C. : N.A.S.A.",
+            "row6":"2020 Participación de la modificación del pensum de la carrera de Informática : U.M.S.A.",
+            "row7":"2022 Dictado de Seminario en Machine Learnning : A.D.C. Bolivia",
+            "row8":"2023 Paricipacion en calidad de Mentor : N.A.S.A. SpaceApps"
+        }
+    }
+}

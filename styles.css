@@ -1,0 +1,103 @@
+:root{
+    --mainBgColor: #ffffff;
+    --mainCBgColor: #000000;
+
+    --colorPalette1: #2A63C7;
+    --colorPalette2: #3D5D94;
+    --colorPalette3: #035DFA;
+    --colorPalette4: #3B4961;
+    --colorPalette5: #292D33;
+}
+body{
+    margin: 0px;
+}
+.mainContainer{
+    display: flex;
+    flex-direction: row;
+}
+ul{
+    list-style-type: none;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    padding: 0px;
+}
+
+/* --- Personal Information Container --- */
+.myInfoContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    border-radius: 10px;
+
+    background-color: var(--mainCBgColor);
+}
+
+.photoWraper{
+    width: 16vw;
+    height: auto;
+
+    margin-top: 5rem;
+
+    border: solid 2px;
+    border-color: var(--mainBgColor);
+    border-radius: 50px;
+}
+.myInfoContainer ul li h3{
+    color: var(--colorPalette3);
+    margin: 5px;
+}
+.myInfoContainer ul li p{
+    color: var(--mainBgColor);
+    margin: 5px;
+}
+.breaked{
+    padding-left: 1rem;
+}
+.qrWraper{
+    width: 16vw;
+    height: auto;
+    margin-bottom: 5rem;
+}
+/* --- Profesional Information --- */
+.proInfoContainer{
+    width: 60vw;
+    height: 100vh;
+
+    margin: 1rem;
+
+    background-color: var(--mainBgColor);
+}
+
+.names{
+    margin-top: 0rem;
+    margin-bottom: 0.5rem;
+    font-size: 40px;
+    color: var(--colorPalette3);
+}
+.degrees{
+    margin: 0px;
+    color: var(--colorPalette2);
+}
+.remark{
+    margin: 0px;
+    color: var(--colorPalette3);
+}
+.sectionTitle{
+    color: var(--colorPalette1);
+}
+
+.container{
+    color: var(--colorPalette2);
+}
+h2{
+    margin: 0px;
+}
+h3{
+    margin: 0px;
+}
+p{
+    margin: 0px;
+    margin-left: 1rem;
+}
