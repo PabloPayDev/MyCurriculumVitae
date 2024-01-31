@@ -20,15 +20,21 @@ Quieres usar este archivo como Template para crear el tuyo? Pues no necesitas na
 Opcionalmente tambien podrias tener algun servidor en Localhost para evitar ciertos problemas, pero por la sencilles del proyecto no es necesario.
 ## Installation
 Solo necesitara clonar el repositorio de la siguiente forma:
-``` git clone https://github.com/pablopaydev/MyCurriculumVitae.git ```
+``` 
+git clone https://github.com/pablopaydev/MyCurriculumVitae.git
+```
 ## Usage
 En mi caso una vez con el repositorio en mi maquina, abro el proyecto en **VSCode** para el servidor utilizo el modulo **Http** de **Python** con el siguiente codigo:
-```python3 -m http.server```
+```
+python3 -m http.server
+```
 Luego simplemente debia ingresar a un navegador y entrar al localhost, podras ver una vista previa de como se ve el documento.
 Para cambiar el contenido solo necesitara editar el archivo **CurriculumVitae.html**.
 Para modificar los colores y el estilo del documento simplemente modifica el archivo **styles.css**.
 Una vez con el CV modificado en la pantalla del navegador debes abrir las **Herramientas de Desarrollador** con **F12** y dirigete a la consola y ejecuta la siguiente funcion.
-```generatePdf();```
+```
+generatePdf();
+```
 Seguidamente deberias poder ver como se descarga el documento desde tu navegador.
 Debido a la diferencia de tamaño entre la pantalla y el tipo de hoja carta quizas debas hacer otro tipo de modificaciones en los archivos antes mencionados.
 ## Common Issuess
