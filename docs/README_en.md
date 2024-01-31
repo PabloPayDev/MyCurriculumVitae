@@ -1,17 +1,10 @@
 # My Curriculum Vitae
-
-
 This repository contains the code in **Html**, **Css** and **Js** to generate my own **C.V.** in a **Pdf** format, this document is also already generated.
-
 This in order to be able to share said document along with its respective code so that other developers can consult it or even be able to develop their own based on it.
-
 ## Why Html and Css?
-
-
 Firstly I had planned to use a **docx** type file editor but these tend to be limited when it comes to styling these files, so I discarded it.
 
 I also thought about applications like **Canvas** or **Photoshop** in which I could style it to my liking, but I soon saw that it was not fast to be able to make changes to the color palette and the margins.
-
 Thinking about it, I remembered the history of **Html**, it was originally used to create scientific documentation, I also remembered that **Html** is the preferred language when generating **PDF's** in applications or web pages. I also remembered that in this one I could stylize each pixel if I wanted. Everything pointed me to using **Html** and **Css** until one day I said:
 
 >I am a programmer, the most professional thing would be for me to do it that way.
